@@ -4,7 +4,7 @@
 
 # Gameplay
 
-This is a two player turn based grid game.
+This is a two player turn based grid game. I call silly because I didn't check are there any strategy never squish and play forever. I hope there aren't.
 * Each player has three pieces.
 * Each turn players have to make these three moves:
 * * move 1 square straight
