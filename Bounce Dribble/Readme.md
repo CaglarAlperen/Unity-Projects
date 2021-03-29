@@ -4,7 +4,7 @@
 
 # Gameplay
 
-* This is a highscore challenge game. 
+This is a highscore challenge game. Only work for 9:16 aspect ratio because I didn't make ajdustments for different aspect ratios.
 * Every collision with side walls worth 1 point. 
 * If you touch spikes you lose. 
 * Every 5 points spike count increases up to 5 at most.
@@ -12,3 +12,4 @@
 * There are two bonuses D and S.
 * D decreases difficulty.
 * S decreases balls speed.
+
