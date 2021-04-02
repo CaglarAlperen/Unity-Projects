@@ -8,3 +8,4 @@ Every turn path will be visible for 3 seconds. Then path will be hidden and you 
 * You must reach top row to pass level. 
 * Paths are randomly generated. 
 * Difficulty isn't change according to score.
+* If you step towards void you fall and lose.
