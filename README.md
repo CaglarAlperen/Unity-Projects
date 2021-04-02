@@ -2,7 +2,7 @@
 
 ## Remember Path
 
-<img src="https://github.com/CaglarAlperen/Unity-Projects/blob/main/Remember%20Path/Screenshots/Screenshot2.PNG" width="300" height="300">
+<img src="https://github.com/CaglarAlperen/Unity-Projects/blob/main/Remember%20Path/Screenshots/Screenshot2.PNG" width="216" height="384">
  
 ## Bounce Dribble
 
